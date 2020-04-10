@@ -1,0 +1,16 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [ 
+        {
+            "ruta" : "productos",
+            "icon" : "store",
+            "texto": "Lista de Productos"
+        },
+        {
+            "ruta" : "productos2",
+            "icon" : "add_shopping_cart",
+            "texto": "Lista de Productos"
+        }
+      
+    ]
+}
